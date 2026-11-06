@@ -178,11 +178,23 @@ TypeScript checks and Expo compatibility checks were also performed during devel
 
 See [CHANGELOG.md](CHANGELOG.md) for the changes introduced during Part 3.
 
+
 ## 11. Demonstration
 
-A demonstration video will show the application's main features, including menu management, search, filtering, statistics and persistent storage.
+A video demonstration of the Chef's Menu Manager application
+is available on YouTube.
 
-**YouTube demonstration link:** To be added before submission.
+The demonstration covers:
+- Adding and validating menu items.
+- Editing and deleting existing dishes.
+- Searching and filtering menu items.
+- Viewing live menu statistics.
+- Persistent local storage using AsyncStorage.
+- Improvements introduced in Part 3.
+
+**YouTube Demonstration:**
+https://youtu.be/J1VL8QrzMDc
+
 
 ## 12. References
 
